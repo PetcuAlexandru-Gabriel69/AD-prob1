@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1528225131 source:c:\users\alexb\onedrive\desktop\code\recursive solve\prob1\count_coins.c
+	"count_coins.h"
+
+1528219754 c:\users\alexb\onedrive\desktop\code\recursive solve\prob1\count_coins.h
+
+1528225479 source:c:\users\alexb\onedrive\desktop\code\recursive solve\prob1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"count_coins.h"
+
+1528225131 source:c:\users\catal\desktop\chestie 7\recursive solve\prob1\count_coins.c
+	"count_coins.h"
+
+1528219754 c:\users\catal\desktop\chestie 7\recursive solve\prob1\count_coins.h
+
